@@ -1,0 +1,8 @@
+Cloud Service Models:
+IaaS (Infrastructure as a Service): Provides virtual machines, storage, and networking.
+PaaS (Platform as a Service): Provides a platform to build and deploy applications.
+SaaS (Software as a Service): Delivers software over the internet.
+Cloud Deployment Models:
+Public Cloud: Shared cloud services over the internet.
+Private Cloud: Cloud infrastructure for a single organization.
+Hybrid Cloud: Combination of public and private clouds.
